@@ -74,6 +74,6 @@ class Company extends AbstractResource
    * @throws \Freshdesk\Exceptions\ValidationException
    */
     public function autocomplete($name) {
-      return $this->api()->request('GET', '/autocomplete', null, ['name' => $name]);
+      return $this->api()->request('GET', '/companies/autocomplete', null, ['name' => $name]);
     }
 }
