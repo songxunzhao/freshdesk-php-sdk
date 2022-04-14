@@ -43,7 +43,7 @@ Add `mpclarkson/freshdesk-php-sdk` to your **composer.json** file:
 ```json
 {
     "require": {
-        "mpclarkson/freshdesk-php-sdk": "dev-master"
+        "songxunzhao/freshdesk-php-sdk": "dev-master"
     }
 }
 ```
@@ -161,7 +161,7 @@ which Freshdesk has not yet implemented.
 
 ## Author
 
-The library was written and maintained by [Matthew Clarkson](http://mpclarkson.github.io/) 
+The library was written and maintained by [Zhao SongXun](https://songxunzhao.github.io/) 
 from [Hilenium](https://hilenium.com).
 
 ## Reference
